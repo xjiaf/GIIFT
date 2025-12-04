@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.nohup
+*.out
+*_error.jsonl
+*_origin.jsonl
+__pycache__/
+*.ipynb
