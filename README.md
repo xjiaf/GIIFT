@@ -12,9 +12,9 @@ conda activate giift
 
 All data should be organised in the ```data/``` directory.
 
-Download the images for [Flickr30k](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) and upzip it in the ```data/multi30k``` folder.
-
 Execute ```data/multi30k/setup_multi30k.sh``` to download the text data and organize the folders from kaggle and google drive.
+
+It will also download the images for [Flickr30k](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) and upzip it in the ```data/multi30k``` folder.
 
 # GIIFT Training script
 ## 1. Quick Start
